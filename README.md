@@ -43,3 +43,7 @@ Enterprise Mobility Development: Over 13 years of experience building mobile app
 **Certified SCRUM Master**: Expertise in agile project management, ensuring efficient and collaborative project execution.
 
 **Microsoft Azure DP-900**: Certified in cloud fundamentals, adding depth to my cloud-based knowledge and skills.
+
+**Linkedin**: www.linkedin.com/in/phaniraghav
+
+
