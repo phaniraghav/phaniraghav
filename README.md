@@ -28,18 +28,18 @@ Technical Skills
 
 **Project Management**: Certified SCRUM Master, Agile Methodology
 
-Additional Expertise: Field Mobility, Internet of Things (IoT)
+**Additional Expertise**: Field Mobility, Internet of Things (IoT)
 
-Professional Experience
+**Professional Experience**
 
 Enterprise Mobility Development: Over 13 years of experience building mobile applications across platforms, delivering high-quality solutions for clients such as Kellogg's, CUNA Mutual, and Otis. I have also worked on-site at multiple client locations in the U.S., ensuring seamless collaboration and tailored solutions.
 
-Low-Code Development with OutSystems: 2+ years of experience with low-code solutions to streamline development and deployment processes in enterprise environments.
+**Low-Code Development with OutSystems**: 2+ years of experience with low-code solutions to streamline development and deployment processes in enterprise environments.
 
-Data Science Enthusiast: Currently expanding my skills in data science to broaden my technical capabilities.
+**Data Science Enthusiast**: Currently expanding my skills in data science to broaden my technical capabilities.
 
-Certifications
+**Certifications**
+**
+Certified SCRUM Master**: Expertise in agile project management, ensuring efficient and collaborative project execution.
 
-Certified SCRUM Master: Expertise in agile project management, ensuring efficient and collaborative project execution.
-
-Microsoft Azure DP-900: Certified in cloud fundamentals, adding depth to my cloud-based knowledge and skills.
+**Microsoft Azure DP-900**: Certified in cloud fundamentals, adding depth to my cloud-based knowledge and skills.
