@@ -18,15 +18,15 @@ Hello! I’m Phani Raghav M S (Raghav), an IT professional with 18 years of expe
 
 Technical Skills
 
-Programming Languages: Java, J2EE, JavaScript
+**Programming Languages**: Java, J2EE, Python, C#, JavaScript
 
-Mobile Development Platforms: Android, iOS, Xamarin, PhoneGap, Symbian, Blackberry, Windows Tablets
+**Mobile Development Platforms**: Android, iOS, Xamarin, PhoneGap, Symbian, Blackberry, Windows Tablets
 
-Low-Code Platform: OutSystems (2+ years)
+**Low-Code Platform**: OutSystems (2+ years)
 
-Cloud Certification: Azure DP-900
+**Cloud Certification**: Azure DP-900
 
-Project Management: Certified SCRUM Master, Agile Methodology
+**Project Management**: Certified SCRUM Master, Agile Methodology
 
 Additional Expertise: Field Mobility, Internet of Things (IoT)
 
