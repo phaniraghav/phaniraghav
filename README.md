@@ -39,7 +39,7 @@ Enterprise Mobility Development: Over 13 years of experience building mobile app
 **Data Science Enthusiast**: Currently expanding my skills in data science to broaden my technical capabilities.
 
 **Certifications**
-**
-Certified SCRUM Master**: Expertise in agile project management, ensuring efficient and collaborative project execution.
+
+**Certified SCRUM Master**: Expertise in agile project management, ensuring efficient and collaborative project execution.
 
 **Microsoft Azure DP-900**: Certified in cloud fundamentals, adding depth to my cloud-based knowledge and skills.
