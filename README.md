@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I’m Phani Raghav M S (Raghav), an IT professional with 18 years of experience specializing in enterprise mobile application development, low-code platforms, and cloud solutions. I bring a unique blend of technical expertise in both traditional programming and cutting-edge, low-code development frameworks.
+Hello! I’m Phani Raghav M S (Raghav), an IT professional with 18 years of experience specializing in enterprise mobile application development, low-code platforms, cloud solutions, Data Science. I bring a unique blend of technical expertise in both traditional programming and cutting-edge, low-code development frameworks.
 
 Technical Skills
 
