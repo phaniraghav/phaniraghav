@@ -18,11 +18,13 @@ Hello! I’m Phani Raghav M S (Raghav), an IT professional with 18 years of expe
 
 Technical Skills
 
-**Programming Languages**: Java, J2EE, Python, C#, JavaScript
+**Programming Languages**: Python, C#, Java, J2EE, JavaScript
 
 **Mobile Development Platforms**: Android, iOS, Xamarin, PhoneGap, Symbian, Blackberry, Windows Tablets
 
 **Low-Code Platform**: OutSystems (2+ years)
+
+**ML Frameworks**: TensorFlow, Pytorch
 
 **Cloud Certification**: Azure DP-900
 
