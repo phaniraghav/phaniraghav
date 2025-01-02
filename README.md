@@ -24,6 +24,8 @@ Technical Skills
 
 **Low-Code Platform**: OutSystems (2+ years)
 
+**LLM Frameworks**: LangChain, Phidata, Llama Index
+
 **ML Frameworks**: TensorFlow, Pytorch
 
 **Cloud Certification**: Azure DP-900
