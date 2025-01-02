@@ -20,7 +20,7 @@ Technical Skills
 
 **Programming Languages**: Python, C#, Java, J2EE, JavaScript
 
-**Mobile Development Platforms**: Android, iOS, Xamarin, PhoneGap, Symbian, Blackberry, Windows Tablets
+**Mobile Development Platforms**: Android, iOS, Xamarin, PhoneGap, Symbian, Blackberry, Windows Phone and Tablets
 
 **Low-Code Platform**: OutSystems (2+ years)
 
