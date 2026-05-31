@@ -32,7 +32,7 @@ Hello! I’m Phani Raghav M S (Raghav), an IT professional with 20 years of expe
 * Azue AI Business Professional
 * Certified SAFe® Scrum Master
 * Context Engineering Foundation
-* Azure DP-900
+* Microsoft Azure Data Fundamentals
 * Certified IoT Professional
 
 **Project Management**: Certified SCRUM Master, Agile Methodology
