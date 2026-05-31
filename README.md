@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello! I’m Phani Raghav M S (Raghav), an IT professional with 19 years of experience specializing in enterprise mobile application development, low-code platforms, cloud solutions, Data Science. I bring a unique blend of technical expertise in both traditional programming and cutting-edge, low-code development frameworks.
-
-Technical Skills
+Hello! I’m Phani Raghav M S (Raghav), an IT professional with 20 years of experience specializing in enterprise mobile application development, low-code platforms, cloud solutions, AI Agent, Data Science. I bring a unique blend of technical expertise in both traditional programming and cutting-edge, low-code development frameworks.
 
 **Programming Languages**: Python, C#, Java, J2EE, JavaScript
 
@@ -28,7 +26,14 @@ Technical Skills
 
 **ML Frameworks**: TensorFlow, Pytorch
 
-**Cloud Certification**: Azure DP-900
+**Certifications**: 
+
+* Google Generative AI Leader
+* Azue AI Business Professional
+* Certified SAFe® Scrum Master
+* Context Engineering Foundation
+* Azure DP-900
+* Certified IoT Professional
 
 **Project Management**: Certified SCRUM Master, Agile Methodology
 
@@ -41,12 +46,6 @@ Enterprise Mobility Development: Over 13 years of experience building mobile app
 **Low-Code Development with OutSystems**: 2+ years of experience with low-code solutions to streamline development and deployment processes in enterprise environments.
 
 **Data Science Enthusiast**: Currently expanding my skills in data science to broaden my technical capabilities.
-
-**Certifications**
-
-**Certified SCRUM Master**: Expertise in agile project management, ensuring efficient and collaborative project execution.
-
-**Microsoft Azure DP-900**: Certified in cloud fundamentals, adding depth to my cloud-based knowledge and skills.
 
 **Linkedin**: www.linkedin.com/in/phaniraghav
 
